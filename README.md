@@ -55,7 +55,7 @@ Then run `npm install` inside the new cloned folder, and make sure to add the mo
             width: 450, // px, default: 450
             height: 203, // px, default: 203
             // the battery images itself
-            batWitdh: 250, // px, default: 250
+            batWidth: 250, // px, default: 250
             batHeight: 75, // px, default: 75
         },
         carImageOptions: {
